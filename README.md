@@ -1,2 +1,1 @@
-# ContainerPT
-Better way of putting Packet Tracer into a container (clientless)
+# Packet Tracer on Mac OS
